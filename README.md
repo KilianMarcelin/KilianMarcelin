@@ -2,6 +2,8 @@
 <p>M1 student in Rennes, France. I always wanted to specialize in digital imaging and video games.<br>
 That's why I created my video game studio in 2021. I've published 3 small mobile games and a management/strategy game on pc. These are no longer available, as my skills have evolved and I don't feel that these projects are mature enough.<br>
 However, you can test my <a href="https://althior.itch.io">game jam entries</a></p>
+![alt text](https://github.com/KilianMarcelin/KilianMarcelin/blob/main/images/cyb.png?raw=true)
+![alt text](https://github.com/KilianMarcelin/Shell-texturing/blob/main/cyb 2.png?raw=true)
 
 <h1>About Askoed</h1>
 <p>Askoed is the name of my video game studio. I'm currently working on a new project with a team of 5 people.<br>
