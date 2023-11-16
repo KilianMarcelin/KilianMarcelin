@@ -3,6 +3,7 @@
 That's why I created my video game studio in 2021. I've published 3 small mobile games and a management/strategy game on pc. These are no longer available, as my skills have evolved and I don't feel that these projects are mature enough.<br>
 However, you can test my <a href="https://althior.itch.io">game jam entries</a></p>
 <h1>Portfolio</h1>
+<p>Some of the games I've made : </p>
   <div style="display:flex">
     <img style="width:30%;" src="images/cyb.png" />
     <img style="width:30%;" src="images/cyb 2.png" />
