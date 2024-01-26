@@ -1,5 +1,5 @@
 <h1>About me</h1>
-<p>M1 student in Rennes, France. I always wanted to specialize in digital imaging and video games.<br>
+<p>M1 student in Rennes, France. I always wanted to specialize in computer graphics and video games.<br>
 That's why I created my video game studio in 2021. I've published 3 small mobile games and a management/strategy game on pc. These are no longer available, as my skills have evolved and I don't feel that these projects are mature enough.<br>
 However, you can test my <a href="https://althior.itch.io">game jam entries</a></p>
 <h1>Portfolio</h1>
